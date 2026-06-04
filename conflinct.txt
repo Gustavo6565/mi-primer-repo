@@ -1,4 +1,0 @@
-linea original 
-Hola como estas
-segundo cambio de desde main	
-canbio de la rama developer 
